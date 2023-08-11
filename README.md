@@ -3,7 +3,7 @@
 ![crm_email](https://github.com/digeorgiewa/CRM-Emails-Tracking--Power-BI/assets/100164246/4efec86f-5491-4740-af63-ba8a75db1ade)
 
 
-###Introduction
+### Introduction
 
 - Implemented and managed CRM email tracking system to monitor communication interactions with clients and prospects.
 - Utilized CRM software to integrate email communications, enabling real-time tracking of email opens, link clicks, and responses.
